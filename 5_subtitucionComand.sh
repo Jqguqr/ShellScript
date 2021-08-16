@@ -1,4 +1,4 @@
-# !/bin/bash
+#! /bin/bash
 # Programa para ejecutar comandos dentro de un programa y almacenarlo en una variable para su posterior uso
 # Autor: Adrian - @eadrian10
 

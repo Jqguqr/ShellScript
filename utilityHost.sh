@@ -1,4 +1,4 @@
-# !/bin/bash
+#! /bin/bash
 # Programa Challenge
 # Autor: Adrian - @eadrian10
 
