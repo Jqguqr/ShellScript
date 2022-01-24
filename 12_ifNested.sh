@@ -19,7 +19,7 @@ if [ $noteClass -le 10 ]; then
             echo "¡Welcome again!"
             echo -e "\n"
         else
-            echo "Keep learning"
+            echo "Keep learning!!"
             echo -e "\n"
         fi
     else
